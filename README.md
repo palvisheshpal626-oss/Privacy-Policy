@@ -70,7 +70,6 @@ All this through **fun, simple, and addictive games** 🎮
 
 📧 **Email:** tech.club.v.a@gmail.com
 
-(Replace with your official support email)
 
 ---
 
