@@ -1,4 +1,4 @@
-# 🎮 Play & Learn: Code & Brain Games 🧠
+# 🎮CodeTrainer 🧠
 ✨ *Learn • Think • Play • Improve* ✨
 
 ---
@@ -11,7 +11,7 @@
 ---
 
 ## 🌟 About the App
-🎯 **Play & Learn: Code & Brain Games** is an interactive Android application designed
+🎯 **CodeTrainer** is an interactive Android application designed
 to improve:
 
 - 🧠 Logical thinking
@@ -87,4 +87,4 @@ Users are encouraged to review this page periodically.
 
 ---
 
-© 2026 Play & Learn: Code & Brain Games
+© 2026 CodeTrainer
