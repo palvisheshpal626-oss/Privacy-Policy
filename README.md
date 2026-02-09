@@ -1,4 +1,4 @@
-# 🎮CodeTrainer 🧠
+# 🎮Code master & Brain games 🧠
 ✨ *Learn • Think • Play • Improve* ✨
 
 ---
