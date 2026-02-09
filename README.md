@@ -80,7 +80,7 @@ Users are encouraged to review this page periodically.
 ---
 
 <p align="center">
-  ⭐ Thank you for using <b>Play & Learn: Code & Brain Games</b> ⭐  
+  ⭐ Thank you for using <b>Code master & Brain games</b> ⭐  
   <br/>
   Made with ❤️ for learners & students
 </p>
